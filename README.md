@@ -1,3 +1,7 @@
+# SuperChat App hosted on firebase
+
+Visit [superchatapp-669ed.firebaseapp.com](https://superchatapp-669ed.firebaseapp.com) to join the chat app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
